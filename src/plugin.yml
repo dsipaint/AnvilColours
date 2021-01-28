@@ -1,0 +1,9 @@
+main: AnvilColors
+name: AnvilColors
+version: 1.0
+description: Allows users to use Minecraft's color codes in an anvil
+author: al
+
+permissions:
+   anvil.allow:
+      default: op
